@@ -31,8 +31,7 @@ Opacity is a percentage: 0 = invisible, 100 = fully opaque.
 
 The optional same-settings toggle uses lightColor/lightAlphaPercent for both modes.
 
-
-Tested on Windows 11 24H2 (26100)
+Tested on Windows 11 24H2 & 26H2
 */
 // ==/WindhawkModReadme==
 // ==WindhawkModSettings==
