@@ -30,7 +30,9 @@ system names use Win32 system colors.
 Opacity is a percentage: 0 = invisible, 100 = fully opaque. 
 
 The optional same-settings toggle uses lightColor/lightAlphaPercent for both modes.
-For Windows 11 24H2 (26100)
+
+
+Tested on Windows 11 24H2 (26100)
 */
 // ==/WindhawkModReadme==
 // ==WindhawkModSettings==
