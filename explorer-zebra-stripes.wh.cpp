@@ -48,10 +48,10 @@ For Windows 11 24H2 (26100)
   $description: '0 = invisible, 50 = 50% opacity, 100 = fully opaque. Mixed once with a theme-aware approximate Explorer background, not per row.'
 - darkColor: "foreground"
   $name: Dark-theme stripe color
-  $description: 'Copy a name: accent, background, foreground, highlight, highlighttext, window, windowtext, buttonface, buttontext, hotlight, graytext. Or enter RRGGBB / #RRGGBB. Ignored when sharing is enabled.'
+  $description: 'Copy a name: accent, background, foreground, highlight, highlighttext, window, windowtext, buttonface, buttontext, hotlight, graytext. Or enter RRGGBB / #RRGGBB. Ignored when useSameThemeSettings is enabled.'
 - darkAlphaPercent: 2
   $name: Dark-theme opacity (%)
-  $description: '0 = invisible, 50 = 50% opacity, 100 = fully opaque. Ignored when sharing is enabled.'
+  $description: '0 = invisible, 50 = 50% opacity, 100 = fully opaque. Ignored when useSameThemeSettings is enabled.'
 - cornerRadius: 8
   $name: Corner radius (at 96 DPI)
 - horizontalInset: 0
